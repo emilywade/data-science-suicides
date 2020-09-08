@@ -1,3 +1,4 @@
 # data-science-suicides
-Pattern analysis of suicides globally
-Analysis of WHO statistics on a messy dataset
+- Data cleaning of messy dataset from WHO statistics
+- Data analysis and correlation calculation
+- Data visualisation of patterns
